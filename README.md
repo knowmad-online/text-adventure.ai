@@ -126,6 +126,6 @@ Made by | <a href="https://knowmad.online"><img src=public/knowmad_white.png wid
 
 ## License
 
-You can use this for both personal and commercial projects but you must credit and link to the [original repository](https://github.com/knowmad-online/aidventure).
+You can use this for both personal and commercial projects but you must credit and link to the [original repository](https://github.com/knowmad-online/text-adventure.ai).
 
 Reselling is prohibited.
